@@ -11,7 +11,7 @@
 ## Tecnologias que eu utilizo
 
 <div style="display: inline_block"></br>
-<img aling="center" alt="Java" src=![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white>
+<img aling="center" alt="Java" src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white>
 <img aling="center" alt="Postgree" src=https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white>
 <img aling="center" alt="Flask" src=https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white>
 <img aling="center" alt="CSS" src=https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white>
